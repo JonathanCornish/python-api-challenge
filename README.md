@@ -3,7 +3,7 @@ Python script that visualizes the weather across 500+ cities around the world of
 
 The Python code randomly selects a group of 500+ cities from across the world. Then, the code collects data from the OpenWeatherMap API to create a representatitve model of weather across world cities. The API data is used to graph the following relationships:
 
-- Temperature (F) vs. Latitude
+- Temperature (C) vs. Latitude
 - Humidity (%) vs. Latitude
 - Cloudiness (%) vs. Latitude
 - Wind Speed (kmph) vs. Latitude
